@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividerApp", "DividerApp\DividerApp.csproj", "{153C22A5-7389-453F-9CE5-E354B6E70F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividerApp.Tests", "DividerApp.Tests\DividerApp.Tests.csproj", "{A5B6A3DE-E0D6-448F-A6A0-BC0F948D9C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153C22A5-7389-453F-9CE5-E354B6E70F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153C22A5-7389-453F-9CE5-E354B6E70F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153C22A5-7389-453F-9CE5-E354B6E70F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153C22A5-7389-453F-9CE5-E354B6E70F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B6A3DE-E0D6-448F-A6A0-BC0F948D9C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B6A3DE-E0D6-448F-A6A0-BC0F948D9C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B6A3DE-E0D6-448F-A6A0-BC0F948D9C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B6A3DE-E0D6-448F-A6A0-BC0F948D9C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
